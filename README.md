@@ -64,9 +64,17 @@ Pour les commande suivantes, faites Ctrl+p et collez :
 
 - `ext install HookyQR.beautify` : https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify
 - `ext install mrmlnc.vscode-autoprefixer` : https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-autoprefixer
--  ext install rifi2k.format-html-in-php : https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php
--  ext install ritwickdey.LiveServer : https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
--  
-
+- `ext install rifi2k.format-html-in-php` : https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php
+- `ext install ritwickdey.LiveServer` : https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+- `ext install MS-vsliveshare.vsliveshare-pack` : https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack
+- `ext install yzhang.markdown-all-in-one` : https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+- `ext install Equinusocio.vsc-material-theme` : https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme (le thème des bg)
+- `ext install coderfee.open-html-in-browser` : https://marketplace.visualstudio.com/items?itemName=coderfee.open-html-in-browser
+- `ext install neilbrayfield.php-docblocker` : https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker
+- `ext install phproberto.vscode-php-getters-setters` : https://marketplace.visualstudio.com/items?itemName=phproberto.vscode-php-getters-setters
+- `ext install bmewburn.vscode-intelephense-client` : https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client
+- `ext install thibaudcolas.stylelint :` https://marketplace.visualstudio.com/items?itemName=thibaudcolas.stylelint
+- `ext install calvinhong.stylelint-fix` : https://marketplace.visualstudio.com/items?itemName=calvinhong.stylelint-fix
+- `ext install vscode-icons-team.vscode-icons` : https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
 
