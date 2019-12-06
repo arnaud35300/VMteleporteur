@@ -57,7 +57,7 @@ https://github.com/arnaud35300/RecapController
 
 ## Corriger les erreurs PhpMyAdmin
 
-// TO DO 
+Toute les commandes se trouvent ici : https://github.com/O-clock-Alumni/fiches-recap/blob/master/bdd/phpmyadmin.md#probl%C3%A8mes-techniques-connus
 
 ## Les extensions VScode utiles
 
