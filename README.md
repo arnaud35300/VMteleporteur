@@ -78,4 +78,28 @@ Pour les commande suivantes, faites Ctrl+p et collez :
 - `ext install calvinhong.stylelint-fix` : https://marketplace.visualstudio.com/items?itemName=calvinhong.stylelint-fix
 - `ext install vscode-icons-team.vscode-icons` : https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
 
+## Les extensions de Claire
 
+Pour les commandes suivantes, collez les dans le terminal : 
+
+- code --install-extension Cronos87.symfony-snippets
+- code --install-extension HvyIndustries.crane
+- code --install-extension afmicc.GetterAndSetterGenerator
+- code --install-extension bajdzis.vscode-twig-pack
+- code --install-extension bierner.markdown-preview-github-styles
+- code --install-extension bmewburn.vscode-intelephense-client
+- code --install-extension cerzat43.twigcs
+- code --install-extension donjayamanne.githistory
+- code --install-extension felixfbecker.php-debug
+- code --install-extension felixfbecker.php-intellisense
+- code --install-extension felixfbecker.php-pack
+- code --install-extension kamikillerto.vscode-colorize
+- code --install-extension mblode.twig-language-2
+- code --install-extension MehediDracula.php-namespace-resolver
+- code --install-extension mikestead.dotenv
+- code --install-extension ms-mssql.mssql
+- code --install-extension neilbrayfield.php-docblocker
+- code --install-extension phproberto.vscode-php-getters-setters
+- code --install-extension Zignd.html-css-class-completion
+
+## 
