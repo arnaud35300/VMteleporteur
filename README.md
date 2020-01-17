@@ -102,4 +102,9 @@ Pour les commandes suivantes, collez les dans le terminal :
 - code --install-extension phproberto.vscode-php-getters-setters
 - code --install-extension Zignd.html-css-class-completion
 
-## 
+## Serveur AWS
+
+voir les droits mysql
+
+- sudo apt-get install percona-toolkit
+  - voir les comptes et leur droits : sudo apt-get install percona-toolkit
